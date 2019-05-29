@@ -1,1 +1,43 @@
 file:///D:/mi%20primer%20sitio%20web/practica1.html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>*PRACTICA 1*</title>
+</head>
+<style type="text/css">
+	table , th , td
+	{
+		border: 1px solid black;
+		border-collapse: collapse;
+	}
+	th, td
+	{
+    padding: 10px;
+	}
+</style>
+<body>
+<h1>MATRIZ DE ESTILOS DE TEXTO</h1>
+<table style ="width: 50%">
+	<tr>
+		<th>NOMBRE</th>
+		<th><i>APELLIDO</i></th>
+		<th><u>NUM;CONTROL</u></th>
+	</tr>
+<tr>
+	<td><b>Juan</b></td>
+	<td><i>Perez</i></td>
+	<td><u>15690001</u></td>
+</tr>	
+<tr>
+	<td><b>Ramiro</b></td>
+	<td><i>Gutierrez</i></td>
+	<td><u>15690101</u></td>
+</tr>	
+<tr>
+	<td><b>Fernando</b></td>
+	<td><i>Martinez</i></td>
+	<td><u>15690855</u></td>
+</tr>	
+</table>
+</body>
+</html>
